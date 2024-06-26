@@ -31,8 +31,6 @@ The main components used in this build are:
 Here are some photos of the build process and the final setup:
 
 ![Breadboard Computer](photos/20240305_210347.jpg)
-![ALU and Control Unit](photos/20240121_183509.jpg)
-![Memory and Program Counter](photos/20240121_183015.jpg)
 
 ## IC Datasheets
 
