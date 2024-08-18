@@ -30,7 +30,7 @@ The main components used in this build are:
 
 Here are some photos of the build process and the final setup:
 
-![Breadboard Computer](photos/20240305_210347.jpg)
+![Breadboard Computer](Photos_and_Videos/IMG_20240818_180145.jpg)
 
 ## IC Datasheets
 
