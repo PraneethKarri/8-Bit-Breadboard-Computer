@@ -1,6 +1,6 @@
 # 8-Bit Breadboard Computer
 
-Welcome to my 8-bit breadboard computer project! This project is inspired by Ben Eater's YouTube videos and is built entirely at the hardware level. No code is uploaded here, but you will find photos of the build and datasheets for the ICs used.
+Welcome to the 8-bit breadboard computer project! This project is inspired by Ben Eater's YouTube videos and is built entirely at the hardware level. No code is uploaded here, but you will find photos of the build and datasheets for the ICs used.
 
 ## Overview
 
